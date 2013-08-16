@@ -114,5 +114,4 @@ Once the index.html files have been built (one for each frontend) and a backend 
 
 This application has not been fully tested, so there may be still problems due to the new build script or to the new repository structure. So, for the moment, **use it at your own risk!**
 
-
 [pog]: http://www.phpobjectgenerator.com/
